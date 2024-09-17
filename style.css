@@ -1,0 +1,248 @@
+body
+{
+    margin: 0;
+    background-color: rgb(143, 200, 143);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading
+{
+    font-size: 40px;
+    color: black;
+}
+
+td
+{
+    color: white;
+    text-align: center;
+    width: 5;
+    border: 1px solid rgb(143, 200, 143);
+    font-weight: 500;
+    font-size: 14px;
+    margin: 1px;
+}
+
+.none
+{
+    border: none;
+}
+
+#specialrow
+{
+    margin-right: 350px;
+}
+
+.color1
+{
+    background-color: #000099;
+}
+
+.color2
+{
+    background-color: #1a66c9;
+}
+
+.color3
+{
+    background-color: #003300;
+}
+
+.color4
+{
+    background-color: #336600;
+}
+
+.color5
+{
+    background-color: #7803bc;
+}
+
+.color6
+{
+    background-color: #0099cc;
+}
+
+.color7
+{
+    background-color: #ff0000;
+}
+
+.color8
+{
+    background-color: #003366;
+}
+
+.color9
+{
+    background-color: #008f00;
+}
+
+.color10
+{
+    background-color: #336699;
+}
+
+.color11
+{
+    background-color: #994d00;
+}
+
+.color12
+{
+    background-color: #595959;
+}
+
+h3
+{
+    color: white;
+}
+
+#hydrogen
+{
+    background-color: #000099;
+    width: 5px;
+}
+
+#h
+{
+    color: black;
+}
+
+#alkaline_metals
+{
+    background-color: #003300;
+    width: 5px;
+}
+
+#am
+{
+    color: black;
+}
+
+#alkaline_earth_metals
+{
+    background-color: #336600;
+    width: 5px;
+}
+
+#aem
+{
+    color: black;
+}
+
+#transition_metals
+{
+    background-color: #5c0099;
+    width: 5px;
+}
+
+#tm
+{
+    color: black;
+}
+
+#post_transition_metals
+{
+    background-color: #003366;
+    width: 5px;
+}
+
+#ptm
+{
+    color: black;
+}
+
+#metalloids
+{
+    background-color: #0099cc;
+    width: 5px;
+}
+
+#m
+{
+    color: black;
+}
+
+#nonmetals
+{
+    background-color: #008f00;
+    width: 5px;
+}
+
+#nm
+{
+    color: black;
+}
+
+#lanthanides
+{
+    background-color: #336699;
+    width: 5px;
+}
+
+#l
+{
+    color: black;
+}
+
+#actinides
+{
+    background-color: #994d00;
+    width: 5px;
+}
+
+#a
+{
+    color: black;
+}
+
+#halogens
+{
+    background-color: #ff0000;
+    width: 5px;
+}
+
+#ha
+{
+    color: black;
+}
+
+#noble_gases
+{
+    background-color: #1a66c9;
+    width: 5px;
+}
+
+#ng
+{
+    color: black;
+}
+
+#unknown
+{
+    background-color: #595959;
+    width: 5px;
+}
+
+#un
+{
+    color: black;
+}
+
+p
+{
+    color: white;
+}
+
+label
+{
+    color: white;
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-left: 10px;
+}
+
+span
+{
+    display: inline-flex;
+}
